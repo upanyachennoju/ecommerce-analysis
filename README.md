@@ -1,20 +1,31 @@
 # E-commerce Data Analysis
 
 ## Overview
-This project analyzes e-commerce data to uncover sales trends, customer behavior, and product performance using Python.
+This data science project analyzes an e-commerce dataset to extract meaningful insights about sales trends, customer behavior, and product performance using various data science techniques.
+
+## Dataset
+The dataset contains:
+- Order details (ID, date, value, payment method)
+- Customer demographics
+- Product information
+- Shipping details
 
 ## Technologies Used
 - Python, Pandas, NumPy
 - Matplotlib, Seaborn
+- Scikit-learn
 - Jupyter Notebook
 
-## Key Insights
+## Analysis & Insights
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
 - Sales trends and revenue analysis
-- Customer segmentation
-- Product performance insights
+- Customer segmentation using clustering techniques
+- Product performance evaluation
+- Correlation analysis for business insights
 
 ## How to Use
-1. Clone the repo:
+1. Clone the repository:
    ```bash
    git clone https://github.com/upanyachennoju/ecommerce-analysis.git
    ```
@@ -28,8 +39,9 @@ This project analyzes e-commerce data to uncover sales trends, customer behavior
    ```
 
 ## Future Scope
-- Sales forecasting
-- Customer sentiment analysis
+- Implementing predictive modeling for sales forecasting
+- Sentiment analysis on customer reviews
+- Building an interactive dashboard for real-time monitoring
 
 ## Contact
 For queries, reach out to [Upanya Chennoju](https://github.com/upanyachennoju).
